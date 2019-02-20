@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UDecision</title>
+    <link>/en/</link>
+    <description>Recent content on UDecision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Know yourself</title>
+      <link>/en/projects/know-yourself/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/know-yourself/</guid>
+      <description> Knowing yourself is fundamental, we help you uncover your potential! </description>
+    </item>
+    
+    <item>
+      <title>Explore</title>
+      <link>/en/projects/explore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/explore/</guid>
+      <description> Part of learning is knowing what we want. Knowing about the available alternatives can help us tune our preferences. </description>
+    </item>
+    
+    <item>
+      <title>Execute</title>
+      <link>/en/projects/execute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/execute/</guid>
+      <description> Is life a sprint or a marathon? You may be one or the other, but the important thing is not to stop, here we help you follow your plans. </description>
+    </item>
+    
+  </channel>
+</rss>

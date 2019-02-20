@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee on UDecision</title>
+    <link>/tags/coffee/</link>
+    <description>Recent content in Coffee on UDecision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 23 Dec 2018 12:04:16 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ganadores a mejor idea innovadora</title>
+      <link>/blog/comienzo/</link>
+      <pubDate>Sun, 23 Dec 2018 12:04:16 -0500</pubDate>
+      
+      <guid>/blog/comienzo/</guid>
+      <description>Después de meses de esfuerzo, pudimos ver recompensas. Éste sólo el comienzo.</description>
+    </item>
+    
+  </channel>
+</rss>

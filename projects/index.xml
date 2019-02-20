@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servicios on UDecision</title>
+    <link>/projects/</link>
+    <description>Recent content in Servicios on UDecision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conócete</title>
+      <link>/projects/conocete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/conocete/</guid>
+      <description> Conocerte a tí mism@ es fundamental, ¡te ayudamos a destapar tu potencial! </description>
+    </item>
+    
+    <item>
+      <title>Explora</title>
+      <link>/projects/explora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/explora/</guid>
+      <description> Parte del aprendizaje está en saber qué queremos. Tener a disposición de alternativas nos puede ayudar a definir nuestras preferencias. </description>
+    </item>
+    
+    <item>
+      <title>Ejecuta</title>
+      <link>/projects/ejecuta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/ejecuta/</guid>
+      <description> ¿Es la vida es un sprint o una maratón? Puede que seas de uno o de otro, pero lo importante es no parar, aquí te ayudamos a seguir tus planes. </description>
+    </item>
+    
+  </channel>
+</rss>
